@@ -1,4 +1,4 @@
-<h1>Shapiro Wilk Normality Checks</h1>
+# Shapiro Wilk Normality Checks
 
 <br>
 
@@ -8,6 +8,27 @@
 
 <br>
 
-<h3>Overview</h3>
+## Overview
   
-<p>ColorSpace provides 25 palettes based on a user-inputted base color. This app allows users to dynamically pull palettes from ColorSpace and apply the hex codes to data visualisations. This is achieved with the </code>colorspace</code> function which asks the user to select a <code>hex_base</code> code (e.g. teal '89F4EC') and uses the <code>requests</code> & <code>BeautifulSoup</code> libraries to scrape the palettes and hex codes which can be accessed via a dictionary of lists.</p>
+<p>This project uses the Shapiro-Wilk test to detect significant deviations from normality. From the <code>scipy.stats</code> library, the <code>shapiro</code> function assesses the normality of a series of data, represented by a <i>p</i>-value. This is accompanied by two visual representations of the data using <code>seaborn</code>'s <code>histplot</code> and <code>scipy.stat</code>'s <code>probplot</code> (QQ plot).</p>
+
+<br>
+
+## Instructions
+
+* This is a numbered list.
+* I'm going to include a fenced code block as part of this bullet:
+
+    ```Python
+    More Code
+    ```
+
+* We can put fenced code blocks inside nested bullets, too.
+   * Like this:
+
+        ```Python
+        More Code
+        ```
+
+   * The key is to indent your fenced block by **(4 * bullet_indent_level)** spaces.
+   * Also need to put a separating newline above and below the fenced block.
