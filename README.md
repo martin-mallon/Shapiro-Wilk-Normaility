@@ -10,7 +10,7 @@
 
 ## Overview
   
-This project uses the Shapiro-Wilk test to detect significant deviations from normality. From the <code>scipy.stats</code> library, the <code>shapiro</code> function assesses the normality of a series of data, represented by a <i>p</i>-value. This is accompanied by two visual representations of the data using <code>seaborn</code>'s <code>histplot</code> and <code>scipy.stat</code>'s <code>probplot</code> (QQ plot).
+This project uses the Shapiro-Wilk test to detect significant deviations from normality and visualise the results. The product ```swt``` is a bespoke function that uses elements of ```scipy.stats``` and ```seaborn``` to perform a significance test and plot the distributions against a theoretical norm, producing a clear result as to whether the data is normal or not. Individual elements of ```swt``` are explored in depth below.
 
 <br>
 
