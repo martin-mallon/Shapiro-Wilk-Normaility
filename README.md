@@ -3,7 +3,7 @@
 <br>
 
 <p align="center" width="100%">
-    <img width="75%" src="/Shapiro_Wilk_Normality/shapiro.png">
+    <img width="85%" src="/Shapiro_Wilk_Normality/shapiro.png">
 </p>
 
 <br>
