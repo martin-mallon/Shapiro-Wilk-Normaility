@@ -3,7 +3,7 @@
 <br>
 
 <p align="center" width="100%">
-    <img width="85%" src="/Shapiro_Wilk_Normality/shapiro.png">
+    <img width="85%" src="/Shapiro_Wilk_Normality/Assets/shapiro.png">
 </p>
 
 <br>
@@ -79,7 +79,7 @@ This project uses the Shapiro-Wilk test to detect significant deviations from no
     ```
 
 <p align="center" width="100%">
-    <img width="40%" src="/Shapiro_Wilk_Normality/hist.png">
+    <img width="40%" src="/Shapiro_Wilk_Normality/Assets/hist.png">
 </p>
 
 <br>
@@ -96,7 +96,7 @@ This project uses the Shapiro-Wilk test to detect significant deviations from no
     ```
 
 <p align="center" width="100%">
-    <img width="40%" src="/Shapiro_Wilk_Normality/qq.png">
+    <img width="40%" src="/Shapiro_Wilk_Normality/Assets/qq.png">
 </p>
 
 <br>
